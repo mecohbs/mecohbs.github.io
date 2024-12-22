@@ -12,30 +12,50 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Mohali Employee Cooperative Society</description>
-	<lastBuildDate>Fri, 07 Sep 2018 03:35:03 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Aug 2019 17:33:08 +0000</lastBuildDate>
 	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.1</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/08/cropped-MECO-32x32.png</url>
+	<title>MECO Society</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
+		<title>Meeting Agenda: Management Committee Change</title>
+		<link>/meetings/meeting-agenda-management-committee-change/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 21 Aug 2019 17:31:06 +0000</pubDate>
+				<category><![CDATA[Meeting]]></category>
+		<guid isPermaLink="false">/?p=422</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Meeting agenda : website construction; maintenance charges and expenditure</title>
 		<link>/meetings/about-website-maintenance-charges-and-expenditure/</link>
-		<pubDate>Thu, 26 Jul 2018 00:18:07 +0000</pubDate>
+		
 		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 26 Jul 2018 00:18:07 +0000</pubDate>
 				<category><![CDATA[Meeting]]></category>
-
 		<guid isPermaLink="false">/?p=350</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[]]></content:encoded>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
 			</item>
 	</channel>
 </rss>
-
-<!--
-Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
-
-Page Caching using disk: enhanced (Page is feed) 
-Minified using disk
-
-Served from: mecohbs.in @ 2018-12-19 09:46:45 by W3 Total Cache
--->
